@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ErickEspinosa.AbstractFactory.Commons\ErickEspinosa.AbstractFactory.Commons.csproj" />
+    <ProjectReference Include="..\ErickEspinosa.AbstractFactory.Modern\ErickEspinosa.AbstractFactory.Modern.csproj" />
+    <ProjectReference Include="..\ErickEspinosa.AbstractFactory.Victorian\ErickEspinosa.AbstractFactory.Victorian.csproj" />
+  </ItemGroup>
+
+
+</Project>
